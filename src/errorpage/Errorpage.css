@@ -1,0 +1,29 @@
+.not-found-page {
+    height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .not-found-page h1 {
+    font-size: 6rem;
+    color: #dc3545;
+  }
+  
+  .not-found-page h2 {
+    font-size: 2rem;
+    color: #343a40;
+  }
+  
+  .not-found-page p {
+    color: #6c757d;
+  }
+  
+  .not-found-page .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .not-found-page .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  

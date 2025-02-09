@@ -1,0 +1,35 @@
+@media screen and (max-width: 767px) {
+    .navbtn {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 408px) {
+    .container-fluid {
+        .title{
+            order: 1;
+        }
+
+        .name{
+            order: 3;
+        }
+
+        .navbtn {
+            order: 2;
+        }
+    }
+}
+
+.navbtn{
+    height: fit-content;
+    font-size: 14px;
+
+}
+
+.name{
+    color: white;
+    margin-right: 10px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+}

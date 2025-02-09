@@ -1,0 +1,9 @@
+@media screen and (max-width: 767px) {
+    .btn {
+        width: auto;
+    }
+    .form{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+}
